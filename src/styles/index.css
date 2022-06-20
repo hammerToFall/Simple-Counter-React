@@ -1,6 +1,13 @@
-
+.row {
+    background: black;
+    height: 140px;
+	font-size: 80px;
+    color: white;
+    text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
 /* 
-
     You can write your own styles here...
     
     
